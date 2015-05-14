@@ -48,7 +48,7 @@ var zxcRotate={
    o.b=[b,'right'];
    o.lst=i[o.lgth-1];
    b.appendChild(o.bc);
-   o.ms=typeof(ms)=='number'&&ms>0?ms*1200:10000;
+   o.ms=typeof(ms)=='number'&&ms>0?ms*1200:15000;
    this.rotate(o);
   }
  },
@@ -65,7 +65,7 @@ var zxcRotate={
 
 
  animate:function(o,a,f,t,srt,mS){
-  clearTimeout(a[8]);
+  clearTimeout(a[4]);
   var oop=this,ms=new Date()-srt,n=(t-f)/mS*ms+f;
   if (isFinite(n)){
    a[0].style[a[1]]=n+'px';

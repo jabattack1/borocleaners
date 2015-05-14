@@ -65,13 +65,13 @@ var zxcRotate={
 
 
  animate:function(o,a,f,t,srt,mS){
-  clearTimeout(a[4]);
+  clearTimeout(a[8]);
   var oop=this,ms=new Date()-srt,n=(t-f)/mS*ms+f;
   if (isFinite(n)){
    a[0].style[a[1]]=n+'px';
   }
   if (ms<mS){
-   a[4]=setTimeout(function(){ oop.animate(o,a,f,t,srt,mS); },15);
+   a[4]=setTimeout(function(){ oop.animate(o,a,f,t,srt,mS); },10);
   }
   else {
    a[0].style[a[1]]=t+'px';
@@ -84,7 +84,7 @@ var zxcRotate={
 
 zxcRotate.init({
  ID:'rotate',
- Animate:10
+ Animate:12
 });
 
 /*]]>*/

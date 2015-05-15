@@ -171,10 +171,10 @@ body {
 	width:100%;
 }
 
-#houseonhill {
+#tree {
 	position:absolute;
-	margin-top:11%;
-	margin-left:54%;
+	/*margin-top:11%;*/
+	margin-left:100px;
 	height:270px;
 	width: 350px;
 }

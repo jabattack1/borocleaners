@@ -159,16 +159,22 @@ body {
 	/*width:1800px;*/
 }
 
+#house {
+	position:absolute;
+	margin-top:4650px;
+	width:100%;
+	/*background-color: black;*/
+}
 #onhill {
 	position:absolute;
-	margin-top:4700px;
+	/*margin-top:4700px;*/
 	width:100%;
 }
 
 #houseonhill {
 	position:absolute;
-	margin-top:4830px;
-	margin-left:700px;
+	margin-top:11%;
+	margin-left:54%;
 	height:270px;
 	width: 350px;
 }

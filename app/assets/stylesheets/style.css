@@ -176,6 +176,7 @@ body {
 	color:white;
 	font-size: 20px;
 	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	width:200px;
 }
 
 #servicestop:hover{
@@ -185,7 +186,7 @@ body {
 #servicesabout {
 	position:absolute;
 	margin-top:32px;
-	margin-left:540px;
+	margin-left:560px;
 	text-decoration: none;
 	color:white;
 	font-size: 20px;
@@ -200,7 +201,7 @@ body {
 #servicescontact {
 	position:absolute;
 	margin-top:32px;
-	margin-left:675px;
+	margin-left:695px;
 	text-decoration: none;
 	color:white;
 	font-size: 20px;
@@ -258,6 +259,7 @@ body {
 	color:white;
 	font-size: 20px;
 	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	width:200px;
 }
 
 #abouttop:hover{
@@ -267,7 +269,7 @@ body {
 #aboutservices {
 	position:absolute;
 	margin-top:32px;
-	margin-left:540px;
+	margin-left:560px;
 	text-decoration: none;
 	color:white;
 	font-size: 20px;
@@ -281,7 +283,7 @@ body {
 #aboutcontact {
 	position:absolute;
 	margin-top:32px;
-	margin-left:670px;
+	margin-left:690px;
 	text-decoration: none;
 	color:white;
 	font-size: 20px;
@@ -314,6 +316,7 @@ body {
 	color:white;
 	font-size: 20px;
 	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	width:200px;
 }
 
 #contacttop:hover{
@@ -323,7 +326,7 @@ body {
 #contactservices {
 	position:absolute;
 	margin-top:32px;
-	margin-left:540px;
+	margin-left:560px;
 	text-decoration: none;
 	color:white;
 	font-size: 20px;
@@ -337,7 +340,7 @@ body {
 #contactabout {
 	position:absolute;
 	margin-top:32px;
-	margin-left:670px;
+	margin-left:690px;
 	text-decoration: none;
 	color:white;
 	font-size: 20px;

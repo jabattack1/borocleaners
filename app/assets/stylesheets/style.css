@@ -81,6 +81,25 @@ body {
 	border-width:2px;*/
 }
 
+#year {
+	font-family: 'Arvo', Georgia, Times, serif;
+	position: absolute;
+	margin-top:550px;
+	margin-left:270px;
+	z-index:5;
+	width:800px;
+	font-size:20px;
+}
+
+#servant{
+	font-family: 'Arvo', Georgia, Times, serif;
+	position: absolute;
+	margin-top:590px;
+	margin-left:240px;
+	z-index:5;
+	width:750px;
+}
+
 #address {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
@@ -99,6 +118,16 @@ body {
 	font-size: 22px;
 	color:black;
 	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
+}
+
+#explanation {
+	position:absolute;
+	margin-top:120px;
+	margin-left:10px;
+	z-index:5;
+	width:1150px;
+	font-size: 22px;
+	color:black;
 }
 
 #map{

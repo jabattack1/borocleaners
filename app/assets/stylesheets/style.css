@@ -435,3 +435,35 @@ body {
 	height:270px;
 	width: 350px;
 }
+
+#rights {
+	font-family: 'Arvo', Georgia, Times, serif;
+	color: #FFFFFF;
+	margin-left: 0px;
+	margin-top: 5180px;
+	position: absolute;
+	
+	height: 20px; 
+    width: 1150px; 
+	/*border-style: solid;*/
+    /*background-color:rgba(0,0,0,0.5);*/
+    /*border-radius: 5px 5px 5px 5px;*/
+}
+
+#copyright {
+	font-family: 'Arvo', Georgia, Times, serif;
+	color: black;
+	margin-left: 100px;
+	margin-top: 2px;
+	position: absolute;
+	font-size: 12px;
+}
+
+#cred{
+	font-family: 'Arvo', Georgia, Times, serif;
+	color: black;
+	margin-left: 945px;
+	margin-top: 2px;
+	position: absolute;
+	font-size: 12px;
+}

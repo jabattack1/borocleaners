@@ -149,6 +149,11 @@ body {
 	height:450px;
 	margin-top:-140px;
 	margin-left:490px;
+	border-style: solid;
+	border-width:2px;
+	border-color:black;
+	border-radius:5px;
+	/*background-color:white;*/
 }
 
 #phone {
@@ -207,7 +212,12 @@ body {
 
 #servicesheading {
 	position:absolute;
-	width:200px;
+	width:205px;
+	border-style: solid;
+	border-color:black;
+	border-radius:5px;
+	background-color:white;
+	padding-left:5px;
 }
 
 #servicestop {
@@ -290,7 +300,12 @@ body {
 
 #aboutheading {
 	position:absolute;
-	width:200px;
+	width:148px;
+	border-style: solid;
+	border-color:black;
+	border-radius:5px;
+	background-color:white;
+	padding-left:5px;
 }
 
 #abouttop {
@@ -348,7 +363,12 @@ body {
 
 #contactheading {
 	position:absolute;
-	width:200px;
+	width:175px;
+	padding-left:4px;
+	border-style: solid;
+	border-color:black;
+	border-radius:5px;
+	background-color:white;
 }
 
 #contacttop {

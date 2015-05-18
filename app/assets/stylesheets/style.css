@@ -222,8 +222,8 @@ body {
 
 #servicestop {
 	position:absolute;
-	margin-top:0px;
-	margin-left:0px;
+	margin-top:43px;
+	margin-left:250px;
 	text-decoration: none;
 	color:black;
 	font-size: 15px;
@@ -237,8 +237,8 @@ body {
 
 #servicesabout {
 	position:absolute;
-	margin-top:0px;
-	margin-left:70px;
+	margin-top:43px;
+	margin-left:320px;
 	text-decoration: none;
 	color:black;
 	font-size: 15px;
@@ -252,8 +252,8 @@ body {
 
 #servicescontact {
 	position:absolute;
-	margin-top:0px;
-	margin-left:155px;
+	margin-top:43px;
+	margin-left:405px;
 	text-decoration: none;
 	color:black;
 	font-size: 15px;
@@ -310,8 +310,8 @@ body {
 
 #abouttop {
 	position:absolute;
-	margin-top:0px;
-	margin-left:0px;
+	margin-top:43px;
+	margin-left:250px;
 	text-decoration: none;
 	color:black;
 	font-size: 15px;
@@ -325,8 +325,8 @@ body {
 
 #aboutservices {
 	position:absolute;
-	margin-top:0px;
-	margin-left:70px;
+	margin-top:43px;
+	margin-left:320px;
 	text-decoration: none;
 	color:black;
 	font-size: 15px;
@@ -340,8 +340,8 @@ body {
 
 #aboutcontact {
 	position:absolute;
-	margin-top:0px;
-	margin-left:155px;
+	margin-top:43px;
+	margin-left:405px;
 	text-decoration: none;
 	color:black;
 	font-size: 15px;
@@ -373,8 +373,8 @@ body {
 
 #contacttop {
 	position:absolute;
-	margin-top:0px;
-	margin-left:0px;
+	margin-top:43px;
+	margin-left:250px;
 	text-decoration: none;
 	color:black;
 	font-size: 15px;
@@ -388,8 +388,8 @@ body {
 
 #contactservices {
 	position:absolute;
-	margin-top:0px;
-	margin-left:70px;
+	margin-top:43px;
+	margin-left:320px;
 	text-decoration: none;
 	color:black;
 	font-size: 15px;
@@ -403,8 +403,8 @@ body {
 
 #contactabout {
 	position:absolute;
-	margin-top:0px;
-	margin-left:155px;
+	margin-top:43px;
+	margin-left:405px;
 	text-decoration: none;
 	color:black;
 	font-size: 15px;

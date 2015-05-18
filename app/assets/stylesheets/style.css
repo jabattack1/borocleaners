@@ -187,7 +187,7 @@ body {
 #services {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
-	margin-top:700px;
+	margin-top:750px;
 	margin-left:40px;
 	/*width:900px;*/
 }
@@ -199,12 +199,12 @@ body {
 
 #servicestop {
 	position:absolute;
-	margin-top:32px;
-	margin-left:450px;
+	margin-top:0px;
+	margin-left:0px;
 	text-decoration: none;
-	color:white;
-	font-size: 20px;
-	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	color:black;
+	font-size: 15px;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
 	width:200px;
 }
 
@@ -214,13 +214,13 @@ body {
 
 #servicesabout {
 	position:absolute;
-	margin-top:32px;
-	margin-left:560px;
+	margin-top:0px;
+	margin-left:70px;
 	text-decoration: none;
-	color:white;
-	font-size: 20px;
-	width:100px;
-	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	color:black;
+	font-size: 15px;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
+	width:200px;
 }
 
 #servicesabout:hover{
@@ -229,13 +229,13 @@ body {
 
 #servicescontact {
 	position:absolute;
-	margin-top:32px;
-	margin-left:695px;
+	margin-top:0px;
+	margin-left:155px;
 	text-decoration: none;
-	color:white;
-	font-size: 20px;
-	width:150px;
-	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	color:black;
+	font-size: 15px;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
+	width:200px;
 }
 
 #servicescontact:hover{
@@ -270,7 +270,7 @@ body {
 #about {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
-	margin-top:4500px;
+	margin-top:4550px;
 	margin-left:40px;
 	/*width:900px;*/
 }
@@ -282,12 +282,12 @@ body {
 
 #abouttop {
 	position:absolute;
-	margin-top:32px;
-	margin-left:450px;
+	margin-top:0px;
+	margin-left:0px;
 	text-decoration: none;
-	color:white;
-	font-size: 20px;
-	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	color:black;
+	font-size: 15px;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
 	width:200px;
 }
 
@@ -297,12 +297,13 @@ body {
 
 #aboutservices {
 	position:absolute;
-	margin-top:32px;
-	margin-left:560px;
+	margin-top:0px;
+	margin-left:70px;
 	text-decoration: none;
-	color:white;
-	font-size: 20px;
-	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	color:black;
+	font-size: 15px;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
+	width:200px;
 }
 
 #aboutservices:hover{
@@ -311,13 +312,13 @@ body {
 
 #aboutcontact {
 	position:absolute;
-	margin-top:32px;
-	margin-left:690px;
+	margin-top:0px;
+	margin-left:155px;
 	text-decoration: none;
-	color:white;
-	font-size: 20px;
-	width:150px;
-	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	color:black;
+	font-size: 15px;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
+	width:200px;
 }
 
 #aboutcontact:hover{
@@ -327,7 +328,7 @@ body {
 #contact {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
-	margin-top:1400px;
+	margin-top:1450px;
 	margin-left:40px;
 	/*width:1800px;*/
 }
@@ -339,12 +340,12 @@ body {
 
 #contacttop {
 	position:absolute;
-	margin-top:32px;
-	margin-left:450px;
+	margin-top:0px;
+	margin-left:0px;
 	text-decoration: none;
-	color:white;
-	font-size: 20px;
-	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	color:black;
+	font-size: 15px;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
 	width:200px;
 }
 
@@ -354,12 +355,13 @@ body {
 
 #contactservices {
 	position:absolute;
-	margin-top:32px;
-	margin-left:560px;
+	margin-top:0px;
+	margin-left:70px;
 	text-decoration: none;
-	color:white;
-	font-size: 20px;
-	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	color:black;
+	font-size: 15px;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
+	width:200px;
 }
 
 #contactservices:hover{
@@ -368,13 +370,13 @@ body {
 
 #contactabout {
 	position:absolute;
-	margin-top:32px;
-	margin-left:690px;
+	margin-top:0px;
+	margin-left:155px;
 	text-decoration: none;
-	color:white;
-	font-size: 20px;
-	width:100px;
-	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	color:black;
+	font-size: 15px;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
+	width:200px;
 }
 
 #contactabout:hover{

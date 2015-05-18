@@ -70,10 +70,10 @@ body {
 #balloon {
     -webkit-animation: mover 2s infinite  alternate;
     animation: mover 2s infinite  alternate;
-    height:300px;
-    width:150px;
-    margin-left:950px;
-    margin-top:-400px;
+    height:200px;
+    width:100px;
+    margin-left:1000px;
+    margin-top:430px;
 }
 @-webkit-keyframes mover {
     0% { transform: translateY(0); }
@@ -118,7 +118,9 @@ body {
 
 #kitepic {
 	position:absolute;
-	margin-left:630px;
+	margin-left:1020px;
+	height:300px;
+	width:200px;
 	-webkit-animation: mover 2s infinite  alternate;
     animation: mover 2s infinite  alternate;
 }

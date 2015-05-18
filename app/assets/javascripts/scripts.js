@@ -12,4 +12,13 @@ $(function() {
     }
   });
 });
+// $.scrollingParallax('http://i1301.photobucket.com/albums/ag119/jabattack1/clouds_zpsjupnhatn.jpg');
+
+// $.scrollingParallax('http://i1301.photobucket.com/albums/ag119/jabattack1/clouds_zpsjupnhatn.jpg', { 
+//     bgWidth : '200%', 
+//     enableHorizontal : true 
+// });
+
+// $('body').scrollingParallax();
+
 

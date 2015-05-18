@@ -1,5 +1,5 @@
 body {
-  background: url() no-repeat;
+  /*background: url() no-repeat;*/
   background-image: url(http://i1301.photobucket.com/albums/ag119/jabattack1/clouds_zpsjupnhatn.jpg);
   /*background-color:black;*/
   background-size: 100%;
@@ -81,11 +81,33 @@ body {
 	border-width:2px;*/
 }
 
+#laundry {
+	position:absolute;
+	margin-top:300px;
+	margin-left:0px;
+	width:100%;
+}
+
+#laundrypic {
+	position:absolute;
+	width:100%;
+}
+
+#kite {
+	position:absolute;
+	margin-top:700px;
+}
+
+#kitepic {
+	position:absolute;
+	margin-left:630px;
+}
+
 #year {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
-	margin-top:570px;
-	margin-left:270px;
+	margin-top:590px;
+	margin-left:240px;
 	z-index:5;
 	width:800px;
 	font-size:20px;
@@ -124,7 +146,7 @@ body {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
 	margin-top:70px;
-	margin-left:0px;
+	margin-left:75px;
 	z-index:5;
 	width:600px;
 	font-size: 22px;
@@ -151,7 +173,7 @@ body {
 	margin-left:490px;
 	border-style: solid;
 	border-width:2px;
-	border-color:black;
+	border-color:white;
 	border-radius:5px;
 	/*background-color:white;*/
 }
@@ -166,40 +188,43 @@ body {
 #services_anchor {
 	position:absolute;
 	text-decoration: none;
-	margin-left:30%;
+	margin-left:26%;
 	font-size:30px;
 	color:black;
 	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
 }
 
 #services_anchor:hover {
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #about_anchor {
 	position:absolute;
 	text-decoration: none;
-	margin-left:45%;
+	margin-left:43%;
 	font-size:30px;
 	color:black;
 	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
 }
 
 #about_anchor:hover {
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #contact_anchor {
 	position:absolute;
 	text-decoration: none;
-	margin-left:60%;
+	margin-left:61%;
 	font-size:30px;
 	color:black;
 	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
 }
 
 #contact_anchor:hover {
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #services {
@@ -213,11 +238,11 @@ body {
 #servicesheading {
 	position:absolute;
 	width:205px;
-	border-style: solid;
+	/*border-style: solid;
 	border-color:black;
 	border-radius:5px;
 	background-color:white;
-	padding-left:5px;
+	padding-left:5px;*/
 }
 
 #servicestop {
@@ -232,7 +257,8 @@ body {
 }
 
 #servicestop:hover{
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #servicesabout {
@@ -247,7 +273,8 @@ body {
 }
 
 #servicesabout:hover{
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #servicescontact {
@@ -262,7 +289,8 @@ body {
 }
 
 #servicescontact:hover{
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #row1 {
@@ -301,11 +329,11 @@ body {
 #aboutheading {
 	position:absolute;
 	width:148px;
-	border-style: solid;
+	/*border-style: solid;
 	border-color:black;
 	border-radius:5px;
 	background-color:white;
-	padding-left:5px;
+	padding-left:5px;*/
 }
 
 #abouttop {
@@ -320,7 +348,8 @@ body {
 }
 
 #abouttop:hover{
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #aboutservices {
@@ -335,7 +364,8 @@ body {
 }
 
 #aboutservices:hover{
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #aboutcontact {
@@ -350,7 +380,8 @@ body {
 }
 
 #aboutcontact:hover{
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #contact {
@@ -364,11 +395,11 @@ body {
 #contactheading {
 	position:absolute;
 	width:175px;
-	padding-left:4px;
+	/*padding-left:4px;
 	border-style: solid;
 	border-color:black;
 	border-radius:5px;
-	background-color:white;
+	background-color:white;*/
 }
 
 #contacttop {
@@ -383,7 +414,8 @@ body {
 }
 
 #contacttop:hover{
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #contactservices {
@@ -398,7 +430,8 @@ body {
 }
 
 #contactservices:hover{
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #contactabout {
@@ -413,7 +446,8 @@ body {
 }
 
 #contactabout:hover{
-	color:#EFE11A;
+	color:white;
+	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
 }
 
 #house {

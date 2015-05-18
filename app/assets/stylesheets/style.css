@@ -88,7 +88,7 @@ body {
 #top_banner {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
-	margin-top:320px;
+	margin-top:270px;
 	margin-left:0px;
 	z-index:5;
 	width:100%;
@@ -166,7 +166,7 @@ body {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
 	margin-top:70px;
-	margin-left:75px;
+	margin-left:0px;
 	z-index:5;
 	width:600px;
 	font-size: 22px;
@@ -189,8 +189,8 @@ body {
 	position:absolute;
 	width:600px;
 	height:450px;
-	margin-top:-140px;
-	margin-left:490px;
+	margin-top:-120px;
+	margin-left:550px;
 	border-style: solid;
 	border-width:2px;
 	border-color:white;

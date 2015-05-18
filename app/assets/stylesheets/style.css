@@ -67,6 +67,24 @@ body {
   }
 }
 
+#balloon {
+    -webkit-animation: mover 2s infinite  alternate;
+    animation: mover 2s infinite  alternate;
+    height:300px;
+    width:150px;
+    margin-left:950px;
+    margin-top:-400px;
+}
+@-webkit-keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
+}
+@keyframes mover {
+    0% { transform: translateY(0); }
+    100% { transform: translateY(-20px); }
+}
+
+
 #top_banner {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
@@ -95,12 +113,14 @@ body {
 
 #kite {
 	position:absolute;
-	margin-top:700px;
+	margin-top:1100px;
 }
 
 #kitepic {
 	position:absolute;
 	margin-left:630px;
+	-webkit-animation: mover 2s infinite  alternate;
+    animation: mover 2s infinite  alternate;
 }
 
 #year {

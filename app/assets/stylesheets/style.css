@@ -1,18 +1,29 @@
+html{
+}
+
 body {
   /*background: url() no-repeat;*/
-  background-image: url(http://i1301.photobucket.com/albums/ag119/jabattack1/clouds_zpsjupnhatn.jpg);
   /*background-color:black;*/
+  background:url(http://i1301.photobucket.com/albums/ag119/jabattack1/clouds_zpsjupnhatn.jpg) repeat-y center top;
   background-size: 1260px;
   background-repeat: repeat-y;
-  position:absolute;
+	width:1260px;
+  	height: 4500px;
+  	margin: 0 auto;
+  position:relative;
+}
+}
+
+#page-wrap {
   font-family: Georgia, serif;
   /*background-position: center;*/
   background-attachment:scroll;
   /*overflow-x: hidden;*/
-  width:1260px;
-  height: 4500px;
-  margin: 0 auto;
+  	margin: 0 auto;
+     /*width: 900px;*/
+     /*margin: 0 auto;*/
 }
+
 
 #start {
 	position:absolute;
@@ -39,6 +50,7 @@ body {
 	margin-left:20px;
 	z-index:5;
 }
+
 #boro {
 	position: absolute;
 	width:550px;
@@ -169,6 +181,18 @@ body {
 	position: absolute;
 	margin-top:70px;
 	margin-left:0px;
+	z-index:5;
+	width:600px;
+	font-size: 22px;
+	color:black;
+	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
+}
+
+#time1 {
+	font-family: 'Arvo', Georgia, Times, serif;
+	position: absolute;
+	margin-top:70px;
+	margin-left:200px;
 	z-index:5;
 	width:600px;
 	font-size: 22px;
@@ -474,7 +498,7 @@ body {
 
 #house {
 	position:absolute;
-	margin-top:4750px;
+	margin-top:4850px;
 	width:100%;
 	/*background-color: black;*/
 }

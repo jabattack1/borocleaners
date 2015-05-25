@@ -176,11 +176,23 @@ body {
 	/*text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;*/
 }
 
+#addy1{
+	position: absolute;
+	margin-top:320px;
+	margin-left:40px;
+}
+
+#phone2{
+	position: absolute;
+	margin-top:350px;
+	margin-left:40px;
+}
+
 #schedule {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
-	margin-top:70px;
-	margin-left:0px;
+	margin-top:320px;
+	margin-left:700px;
 	z-index:5;
 	width:600px;
 	font-size: 22px;
@@ -191,8 +203,8 @@ body {
 #time1 {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
-	margin-top:70px;
-	margin-left:200px;
+	margin-top:320px;
+	margin-left:860px;
 	z-index:5;
 	width:600px;
 	font-size: 22px;
@@ -211,24 +223,29 @@ body {
 	color:black;
 }
 
-#map{
+
+#map {
 	position:absolute;
-	width:600px;
-	height:450px;
-	margin-top:-120px;
-	margin-left:550px;
+	width:1120px;
+	height:300px;
+	margin-top:0px;
+	margin-left:10px;
 	border-style: solid;
 	border-width:2px;
-	border-color:white;
-	border-radius:5px;
-	/*background-color:white;*/
+	border-color:black;
+	/*border-radius:5px;*/
 }
+
 
 #phone {
 	position:absolute;
 	margin-top:-14px;
 	margin-left:85px;
 	z-index:5;
+}
+
+#phone1{
+	margin-top:-20px;
 }
 
 #services_anchor {
@@ -276,7 +293,7 @@ body {
 #services {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
-	margin-top:750px;
+	margin-top:1050px;
 	margin-left:40px;
 	/*width:900px;*/
 }
@@ -433,7 +450,7 @@ body {
 #contact {
 	font-family: 'Arvo', Georgia, Times, serif;
 	position: absolute;
-	margin-top:1450px;
+	margin-top:2050px;
 	margin-left:40px;
 	/*width:1800px;*/
 }
@@ -498,7 +515,7 @@ body {
 
 #house {
 	position:absolute;
-	margin-top:4850px;
+	margin-top:4790px;
 	width:100%;
 	/*background-color: black;*/
 }
